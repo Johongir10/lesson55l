@@ -1,0 +1,13 @@
+/* *{
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+} */
+.btn{
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+    padding: 20px 20px ;
+    color: white;
+
+}
